@@ -2,8 +2,7 @@
 
 import pytest
 import pandas as pd
-from unittest.mock import patch
-from src.tscleaner.cleaning import SpikeCleaner, OutOfRangeCleaner, FlatPeriodCleaner
+from src.tscleaner.cleaning import SpikeCleaner, OutOfRangeCleaner
 
 
 
